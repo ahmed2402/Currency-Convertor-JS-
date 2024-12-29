@@ -46,7 +46,7 @@ const baseUrl = "https://v6.exchangerate-api.com/v6/<your-api-key>/pair/";
 
 ## Live Demo
 The project is live on Vercel. Check it out here:
-[Currency Converter on Vercel](currency-convertor-js-psi.vercel.app)
+[Currency Converter on Vercel]([currency-convertor-js-psi.vercel.app](https://currency-convertor-js-psi.vercel.app/))
 
 ## File Structure
 ```
