@@ -1,6 +1,5 @@
 const baseUrl = "https://v6.exchangerate-api.com/v6/57bc33119acbea5b90e6c5bd/pair/";
 
-// https://api.frankfurter.dev/v1/latest?base=USD&symbols=EUR
 const dropdowns = document.querySelectorAll(".dropdown select");
 const button = document.querySelector("form button");
 const fromCurr = document.querySelector(".from select");
